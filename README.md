@@ -1,7 +1,7 @@
 # Learning-Day-1
 
 
-1. https://leetcode.com/problems/squares-of-a-sorted-array/description/
+1. ✅ https://leetcode.com/problems/squares-of-a-sorted-array/description/ -- I used Insertion sort to Sort the Array.
 2. ✅ 3 Sorting Algorithms - bubble, Selection and Insertion Sort
    - https://www.youtube.com/watch?v=ezUYAm7VrHA&list=PLaAbJBZNAVlzHr-M3iOil6WuA7pUKZ_o4&index=1
    - https://www.youtube.com/watch?v=byHQ51uuFHw&t=615s
