@@ -14,6 +14,6 @@ Choose whichever is good until you understand.
    - https://www.youtube.com/watch?v=btwFJT_xzdg&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=4&t=1277s
    - https://www.youtube.com/watch?v=dGq0gi0wv64&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=3
    - https://www.youtube.com/watch?v=oUWRxJ19gfE&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=2&t=12s
-5. Solve these problems
+5. ✅ Solve these problems
   - https://bigfrontend.dev/problem/implement-curry
   - https://bigfrontend.dev/problem/implement-Array-prototype.flat
